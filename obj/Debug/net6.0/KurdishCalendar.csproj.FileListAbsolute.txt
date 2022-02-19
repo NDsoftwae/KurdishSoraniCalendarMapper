@@ -1,0 +1,13 @@
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\bin\Debug\net6.0\KurdishCalendar.deps.json
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\bin\Debug\net6.0\KurdishCalendar.dll
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\bin\Debug\net6.0\ref\KurdishCalendar.dll
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\bin\Debug\net6.0\KurdishCalendar.pdb
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\obj\Debug\net6.0\KurdishCalendar.GlobalUsings.g.cs
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\obj\Debug\net6.0\KurdishCalendar.csproj.AssemblyReference.cache
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\obj\Debug\net6.0\KurdishCalendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\obj\Debug\net6.0\KurdishCalendar.AssemblyInfoInputs.cache
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\obj\Debug\net6.0\KurdishCalendar.AssemblyInfo.cs
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\obj\Debug\net6.0\KurdishCalendar.csproj.CoreCompileInputs.cache
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\obj\Debug\net6.0\KurdishCalendar.dll
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\obj\Debug\net6.0\ref\KurdishCalendar.dll
+C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\obj\Debug\net6.0\KurdishCalendar.pdb
