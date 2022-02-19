@@ -28,7 +28,7 @@ namespace KurdishCalendar
             return (year,month+z, days);
         };
 
-        public KuridshDateTime(int totaldays) => (this.year, this.month, this.day)= totaldays switch
+        private KuridshDateTime(int totaldays) => (this.year, this.month, this.day)= totaldays switch
         {
             var x when x<=186 => CALCULATE_DAY_PER_YEAR(x, 31, 0),
             var x when x>186 => CALCULATE_DAY_PER_YEAR(x-186, 30, 6),

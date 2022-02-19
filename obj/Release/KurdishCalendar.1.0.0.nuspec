@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>KurdishCalendar</id>
+    <version>1.0.0</version>
+    <authors>NZAR RASHID AHMED</authors>
+    <projectUrl>https://github.com/NDsoftwae/KurdishSoraniCalendarMapper.git</projectUrl>
+    <description>This library maps the Gregorian date to kurdish date.</description>
+    <repository type="https://github.com/NDsoftwae/KurdishSoraniCalendarMapper.git" url="https://github.com/NDsoftwae/KurdishSoraniCalendarMapper.git" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ND\C#Libraries\KurdishCalendar\KurdishCalendar\bin\Release\net6.0\KurdishCalendar.dll" target="lib\net6.0\KurdishCalendar.dll" />
+  </files>
+</package>

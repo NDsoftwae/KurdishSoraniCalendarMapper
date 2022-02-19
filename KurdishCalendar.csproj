@@ -4,6 +4,15 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>NZAR RASHID AHMED</Authors>
+    <Description>This library maps the Gregorian date to kurdish date.</Description>
+    <PackageProjectUrl>https://github.com/NDsoftwae/KurdishSoraniCalendarMapper.git</PackageProjectUrl>
+    <RepositoryType>https://github.com/NDsoftwae/KurdishSoraniCalendarMapper.git</RepositoryType>
+    <RepositoryUrl>https://github.com/NDsoftwae/KurdishSoraniCalendarMapper.git</RepositoryUrl>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
